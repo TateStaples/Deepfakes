@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Real-Time-Voice-Cloning" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Real_Time_Voice_Cloning" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SpeechSplit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/adaptive_voice_conversion" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/first-order-model" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/first_order_model" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/first_order_model/face_alignment" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/speech-driven-animation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/speech_driven_animation" vcs="Git" />
+  </component>
+</project>
